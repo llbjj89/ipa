@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://zd.kingdone.com/apps/icon/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://zd.kingdone.com/apps/icon/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>中铁 App download</string>
+				<string>中铁OA系统</string>
 			</dict>
 		</dict>
 	</array>
